@@ -2,3 +2,4 @@ PyWavelets
 opencv-python
 seaborn
 gunicorn
+
